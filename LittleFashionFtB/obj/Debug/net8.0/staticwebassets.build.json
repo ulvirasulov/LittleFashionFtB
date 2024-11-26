@@ -1,0 +1,3524 @@
+{
+  "Version": 1,
+  "Hash": "45z63AfzsDehfWFk1uobGJSrlVi+KD9IJ1HLd0KUNZA=",
+  "Source": "LittleFashionFtB",
+  "BasePath": "_content/LittleFashionFtB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LittleFashionFtB\\wwwroot",
+      "Source": "LittleFashionFtB",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81dme5qsp1",
+      "Integrity": "hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\bootstrap-icons.css",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "css/bootstrap-icons#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5lqd4to48i",
+      "Integrity": "J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap-icons.css"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\slick.css",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "css/slick#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmzakapvcy",
+      "Integrity": "3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\slick.css"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\tooplate-little-fashion.css",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "css/tooplate-little-fashion#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w3j4uy9itl",
+      "Integrity": "vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\tooplate-little-fashion.css"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "fonts/bootstrap-icons#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1b328vrd37",
+      "Integrity": "w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "umcyo9ouu3",
+      "Integrity": "dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/cody-lannom-G95AReIh_Ko-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mo64r4vnjs",
+      "Integrity": "KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/header/businesspeople-meeting-office-working#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59pkx20wny",
+      "Integrity": "JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\header\\businesspeople-meeting-office-working.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/header/positive-european-woman-has-break-after-work#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fn2v2ltpa8",
+      "Integrity": "K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\header\\positive-european-woman-has-break-after-work.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/people/beautiful-woman-face-portrait-brown-background#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iwws3rqi65",
+      "Integrity": "kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\portrait-british-woman.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/people/portrait-british-woman#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbvqktsxv4",
+      "Integrity": "8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\people\\portrait-british-woman.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6hxkccjbx4",
+      "Integrity": "hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/people/woman-wearing-mask-face-closeup-covid-19-green-background#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ureq322xt",
+      "Integrity": "kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/pim-chu-z6NZ76_UTDI-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wmr8kwesfk",
+      "Integrity": "6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/anis-m-WnVrO-DvxcE-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2z9mt0g2iu",
+      "Integrity": "Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\bicaq.jpg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/bicaq#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3iu6utwrjc",
+      "Integrity": "Fe5f9Qi9jMuhKxLS9T2fN4YZwp8Ekr7BcpfFGfJYs5M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\bicaq.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\cengel.jpg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/cengel#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ly9ql8eh0v",
+      "Integrity": "7SmDOPO/4uUsQiYNqONLnBxglzNLTfsAiFVCRKF2vsU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\cengel.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eafjoa8xld",
+      "Integrity": "JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/jordan-nix-CkCUvwMXAac-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j2jebdw1ir",
+      "Integrity": "C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/nature-zen-3Dn1BZZv3m8-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "idoj3e44yn",
+      "Integrity": "Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\qasiq.jpg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/qasiq#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0tfx4sgn0o",
+      "Integrity": "RALBR5aK+Sc4vI+eRhrzpSsqYUoeCQye6Xy6SDY89VM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\qasiq.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/quokkabottles-kFc1_G1GvKA-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7dd1u6y32",
+      "Integrity": "1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/product/team-fredi-8HRKoay8VJE-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b2nz5by9xm",
+      "Integrity": "g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/retail-shop-owner-mask-social-distancing-shopping#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "monvjre8is",
+      "Integrity": "pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/servicescape-incorporated-_48JSlVLX6g-unsplash#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l21469tfj8",
+      "Integrity": "kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/slideshow/medium-shot-business-women-high-five#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m1n757ci60",
+      "Integrity": "alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/slideshow/team-meeting-renewable-energy-project#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eq0r2qcb6z",
+      "Integrity": "ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "images/slideshow/two-business-partners-working-together-office-computer#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7c1pd3isr1",
+      "Integrity": "Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ngft4x55fs",
+      "Integrity": "edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\custom.js",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rv5y1ni2i",
+      "Integrity": "Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\Headroom.js",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "js/Headroom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ke085ir2u3",
+      "Integrity": "DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Headroom.js"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\jQuery.headroom.js",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "js/jQuery.headroom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0vzykrmdro",
+      "Integrity": "9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jQuery.headroom.js"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\jquery.min.js",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "js/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sc7v1wgpvn",
+      "Integrity": "BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\slick.min.js",
+      "SourceId": "LittleFashionFtB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\",
+      "BasePath": "_content/LittleFashionFtB",
+      "RelativePath": "js/slick.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vxybdbzmv",
+      "Integrity": "DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\slick.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.min.81dme5qsp1.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81dme5qsp1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hHKA3d/HttC8OW3Sl093W8DoZudhHJDj++kZYo6MLzA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap-icons.5lqd4to48i.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lqd4to48i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap-icons.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap-icons.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J6BY0tabS6uB5nmqGcHpL/+XtkJAdvT8YUkc49xkUCY="
+        }
+      ]
+    },
+    {
+      "Route": "css/slick.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "css/slick.mmzakapvcy.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmzakapvcy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/slick.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3h45mwconzsKjTUULjY+EoEkoRhXcOIU4l5YAw2tSOU="
+        }
+      ]
+    },
+    {
+      "Route": "css/tooplate-little-fashion.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\tooplate-little-fashion.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM="
+        }
+      ]
+    },
+    {
+      "Route": "css/tooplate-little-fashion.w3j4uy9itl.css",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\css\\tooplate-little-fashion.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3j4uy9itl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tooplate-little-fashion.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/bootstrap-icons.1b328vrd37.woff",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1b328vrd37"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/bootstrap-icons.umcyo9ouu3.woff2",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umcyo9ouu3"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/bootstrap-icons.woff",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/bootstrap-icons.woff2",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/cody-lannom-G95AReIh_Ko-unsplash.mo64r4vnjs.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mo64r4vnjs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/header/businesspeople-meeting-office-working.59pkx20wny.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59pkx20wny"
+        },
+        {
+          "Name": "label",
+          "Value": "images/header/businesspeople-meeting-office-working.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE="
+        }
+      ]
+    },
+    {
+      "Route": "images/header/businesspeople-meeting-office-working.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE="
+        }
+      ]
+    },
+    {
+      "Route": "images/header/positive-european-woman-has-break-after-work.fn2v2ltpa8.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fn2v2ltpa8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/header/positive-european-woman-has-break-after-work.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k="
+        }
+      ]
+    },
+    {
+      "Route": "images/header/positive-european-woman-has-break-after-work.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/beautiful-woman-face-portrait-brown-background.iwws3rqi65.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwws3rqi65"
+        },
+        {
+          "Name": "label",
+          "Value": "images/people/beautiful-woman-face-portrait-brown-background.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/portrait-british-woman.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\portrait-british-woman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/portrait-british-woman.kbvqktsxv4.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\portrait-british-woman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbvqktsxv4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/people/portrait-british-woman.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.6hxkccjbx4.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6hxkccjbx4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/woman-wearing-mask-face-closeup-covid-19-green-background.7ureq322xt.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ureq322xt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg="
+        }
+      ]
+    },
+    {
+      "Route": "images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg="
+        }
+      ]
+    },
+    {
+      "Route": "images/pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM="
+        }
+      ]
+    },
+    {
+      "Route": "images/pim-chu-z6NZ76_UTDI-unsplash.wmr8kwesfk.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wmr8kwesfk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/anis-m-WnVrO-DvxcE-unsplash.2z9mt0g2iu.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z9mt0g2iu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/bicaq.3iu6utwrjc.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\bicaq.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fe5f9Qi9jMuhKxLS9T2fN4YZwp8Ekr7BcpfFGfJYs5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 17:20:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3iu6utwrjc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/bicaq.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fe5f9Qi9jMuhKxLS9T2fN4YZwp8Ekr7BcpfFGfJYs5M="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/bicaq.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\bicaq.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fe5f9Qi9jMuhKxLS9T2fN4YZwp8Ekr7BcpfFGfJYs5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 17:20:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fe5f9Qi9jMuhKxLS9T2fN4YZwp8Ekr7BcpfFGfJYs5M="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/cengel.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\cengel.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SmDOPO/4uUsQiYNqONLnBxglzNLTfsAiFVCRKF2vsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 17:16:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SmDOPO/4uUsQiYNqONLnBxglzNLTfsAiFVCRKF2vsU="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/cengel.ly9ql8eh0v.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\cengel.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SmDOPO/4uUsQiYNqONLnBxglzNLTfsAiFVCRKF2vsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 17:16:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ly9ql8eh0v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/cengel.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SmDOPO/4uUsQiYNqONLnBxglzNLTfsAiFVCRKF2vsU="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.eafjoa8xld.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eafjoa8xld"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/jordan-nix-CkCUvwMXAac-unsplash.j2jebdw1ir.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2jebdw1ir"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.idoj3e44yn.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "idoj3e44yn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/qasiq.0tfx4sgn0o.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\qasiq.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RALBR5aK+Sc4vI+eRhrzpSsqYUoeCQye6Xy6SDY89VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 17:19:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0tfx4sgn0o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/qasiq.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RALBR5aK+Sc4vI+eRhrzpSsqYUoeCQye6Xy6SDY89VM="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/qasiq.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\qasiq.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34866"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RALBR5aK+Sc4vI+eRhrzpSsqYUoeCQye6Xy6SDY89VM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 17:19:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RALBR5aK+Sc4vI+eRhrzpSsqYUoeCQye6Xy6SDY89VM="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/quokkabottles-kFc1_G1GvKA-unsplash.v7dd1u6y32.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7dd1u6y32"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/team-fredi-8HRKoay8VJE-unsplash.b2nz5by9xm.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b2nz5by9xm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc="
+        }
+      ]
+    },
+    {
+      "Route": "images/retail-shop-owner-mask-social-distancing-shopping.monvjre8is.jpg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "monvjre8is"
+        },
+        {
+          "Name": "label",
+          "Value": "images/retail-shop-owner-mask-social-distancing-shopping.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc="
+        }
+      ]
+    },
+    {
+      "Route": "images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc="
+        }
+      ]
+    },
+    {
+      "Route": "images/servicescape-incorporated-_48JSlVLX6g-unsplash.l21469tfj8.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l21469tfj8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc="
+        }
+      ]
+    },
+    {
+      "Route": "images/slideshow/medium-shot-business-women-high-five.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/slideshow/medium-shot-business-women-high-five.m1n757ci60.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1n757ci60"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slideshow/medium-shot-business-women-high-five.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/slideshow/team-meeting-renewable-energy-project.eq0r2qcb6z.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eq0r2qcb6z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slideshow/team-meeting-renewable-energy-project.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "images/slideshow/team-meeting-renewable-energy-project.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "images/slideshow/two-business-partners-working-together-office-computer.7c1pd3isr1.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7c1pd3isr1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slideshow/two-business-partners-working-together-office-computer.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/slideshow/two-business-partners-working-together-office-computer.jpeg",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.ngft4x55fs.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngft4x55fs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edRDsV9ULIqKzKjpN/KjyQ7Lp4vUn9usbJuHjH8Sk+k="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.3rv5y1ni2i.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rv5y1ni2i"
+        },
+        {
+          "Name": "label",
+          "Value": "js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ado00AFafY+Tq9GFyUhYOmu3Rz78vADttK/R3ryViec="
+        }
+      ]
+    },
+    {
+      "Route": "js/Headroom.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\Headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U="
+        }
+      ]
+    },
+    {
+      "Route": "js/Headroom.ke085ir2u3.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\Headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ke085ir2u3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Headroom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DJFC1kqIhelURkuza0AvYal5RxMtpzLjFhsnVIeuk+U="
+        }
+      ]
+    },
+    {
+      "Route": "js/jQuery.headroom.0vzykrmdro.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\jQuery.headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0vzykrmdro"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jQuery.headroom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg="
+        }
+      ]
+    },
+    {
+      "Route": "js/jQuery.headroom.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\jQuery.headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JVHmfW1+viDK/NiNY2c27PiEsMTT0mvvfqhlXqi2Yg="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.min.sc7v1wgpvn.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sc7v1wgpvn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BGhb3v7SCZyuX1RFBbgxnueuTQp/kKk7LnZL3lytHeY="
+        }
+      ]
+    },
+    {
+      "Route": "js/slick.min.8vxybdbzmv.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vxybdbzmv"
+        },
+        {
+          "Name": "label",
+          "Value": "js/slick.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    },
+    {
+      "Route": "js/slick.min.js",
+      "AssetFile": "C:\\Users\\ulvir\\OneDrive\\Desktop\\LittleFashionFtB\\LittleFashionFtB\\wwwroot\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DHF4zGyjT7GOMPBwpeehwoey18z8uiz98G4PRu2lV0A="
+        }
+      ]
+    }
+  ]
+}
